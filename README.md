@@ -1,7 +1,7 @@
 # 🎮 CS2 Case Bot V1.6 for Streamer.bot
 
 <p align="center">
-  <img src="CS2-Case-Bot-Logo.png" width="128" height="128">
+  <img src="CS2 Case Bot Logo.png" width="128" height="128">
 </p>
 
 ![Version](https://img.shields.io/badge/version-1.6-blue.svg)
