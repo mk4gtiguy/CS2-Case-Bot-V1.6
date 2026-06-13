@@ -1,0 +1,44 @@
+# CS2 Case Bot V1.6 - Persisted Globals
+# Add each line as a new Persisted Global Variable
+
+# CS20 Case
+CS20GoldList = Classic Knife | Fade;Classic Knife | Crimson Web;Classic Knife | Case Hardened;Classic Knife | Slaughter;Classic Knife | Doppler;Classic Knife | Tiger Tooth;Classic Knife | Marble Fade;Classic Knife | Lore;Classic Knife | Night;Classic Knife | Blue Steel;Classic Knife | Stained;Classic Knife | Urban Masked;Classic Knife | Forest DDPAT
+CS20RedList = AWP | Wildfire;FAMAS | Commemoration
+CS20PinkList = MP9 | Hydra;AUG | Death by Puppy;P90 | Nostalgia
+CS20PurpleList = MP5-SD | Agent;UMP-45 | Plastique;P250 | Inferno;Five-SeveN | Buddy;M249 | Aztec
+CS20BlueList = Glock-18 | Sacrifice;FAMAS | Decommissioned;Dual Berettas | Elite 1.6;MAC-10 | Classic Crate;MAG-7 | Popdog;Tec-9 | Flash Out;SCAR-20 | Assault
+
+# Recoil Sticker Capsule
+RecoilStickerBlueList = Natus Vincere;Fnatic;Team Liquid;Astralis;NAVI;FaZe;Cloud9;Virtus pro;G2;ENCE
+RecoilStickerPurpleList = s1mple;dev1ce;ZywOo;Niko;electronic;Twistzz;ropz;blameF
+RecoilStickerPinkList = Crown;Howling Dawn;Team Spirit;Flammable
+RecoilStickerRedList = iBuyPower;Titan;Katowice 2014
+RecoilStickerGoldList = Gold ESL Skull;Gold Crown;Gold Skull
+
+# Dreams Sticker Capsule
+DreamsStickerBlueList = DreamHack;ESL;BLAST;IEM;Faceit;ESEA;Fragbite;PGL
+DreamsStickerPurpleList = KennyS;olofmeister;GeT_RiGhT;f0rest;coldzera;fallen
+DreamsStickerPinkList = Phoenix;Dragon;Lion;Eagle
+DreamsStickerRedList = LGB;Vox Eminor;Reason
+DreamsStickerGoldList = Gold Phoenix;Gold Dragon;Gold Eagle
+
+# Championship Sticker Capsule
+ChampionshipStickerBlueList = Champion;Victory;Trophy;Winner;Elite;Premier
+ChampionshipStickerPurpleList = MVP;Ace;Clutch;1v5;Ninja
+ChampionshipStickerPinkList = Diamond;Platinum;Emerald;Ruby
+ChampionshipStickerRedList = Championship;Grand Slam;Triple Crown
+ChampionshipStickerGoldList = Gold Champion;Gold Trophy;Gold Medal
+
+# Legends Sticker Capsule
+LegendsStickerBlueList = Legend;Mythic;Fabled;Epic;Hero;Icon
+LegendsStickerPurpleList = Hall of Fame;Immortal;Eternal;Infinite
+LegendsStickerPinkList = Celestial;Nebula;Galaxy;Cosmos
+LegendsStickerRedList = Ancient;Primordial;First Blood
+LegendsStickerGoldList = Gold Legend;Gold Mythic;Gold Eternal
+
+# CS20 Sticker Capsule
+CS20StickerBlueList = 20 Years;Anniversary;Classic;Retro;Vintage;Legacy
+CS20StickerPurpleList = Milestone;Decades;OG;Pioneer
+CS20StickerPinkList = Commemorative;Collector;Limited
+CS20StickerRedList = CS20;Two Decades;Legendary
+CS20StickerGoldList = Gold CS20;Gold Anniversary;Gold Legacy
