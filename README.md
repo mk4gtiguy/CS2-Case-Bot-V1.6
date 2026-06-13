@@ -12,7 +12,8 @@
 **The COMPLETE CS2 case opening bot for Streamer.bot** – 12 cases, full sticker system, gold tiers, trading, gifting, jackpot, quests, lottery, giveaways, referrals, leaderboards, stats dashboard, and 45+ commands.
 
 ---
-
+## **IMPORTAN UPDATE**
+**TOOK SLEEP FROM CODE FOR RESPONSE**
 ## ⚠️ Disclaimer
 
 > This bot is a **fan project for entertainment purposes only**. All CS2 skin names, case names, and trademarks are property of **Valve Corporation**. This bot is not affiliated with, endorsed by, or sponsored by Valve. No real money or actual CS2 items are involved — everything is simulated with fake currency and emoji-based items.
